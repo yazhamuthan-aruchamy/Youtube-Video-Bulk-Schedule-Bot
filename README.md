@@ -10,7 +10,7 @@ What this bot can do ?
 5 - Autoclick on "No This not made for kids"
 6 - GoTo schedule and upload  the video
 
-#Restirctions:
+# Restirctions:
 
 You need to Disable the 2FA or else this will not work.
 You can upload upto 80 Videos per day according to the validate of the bot.
@@ -21,7 +21,7 @@ https://www.google.com/intl/en_in/chrome/beta/
 Refer this Video that how this bot work :
 https://youtu.be/DNSzTR2a9Zc
 
-#Install the requirements.txt
+# Install the requirements.txt
 
 Use wisely this bot or else your account get banned.
 
